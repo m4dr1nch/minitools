@@ -4,3 +4,4 @@ Repo for small programs (nothing special really ¯\\\_(ツ)\_/¯) for speedier w
 - `chd`: convert HEX to decimal;
 - `urld`: decode URL;
 - `urle`: encode URL;
+- `fdiff`: find diff in two files (by newline);
